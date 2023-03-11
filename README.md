@@ -1,2 +1,1 @@
-# Prepcourse-Henry-2
-Segundo Intento de repositorio de prueba del prepcourse de henry
+Este es mi segundo ejemplo de como crear un repositorio y clonarlo desde github a mi escritorio local
